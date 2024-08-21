@@ -24,7 +24,7 @@
 ### :woman_technologist: About Me :
 
 I am a front-end web developer with a passion for crafting immersive and responsive user experiences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangldesh.I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me contact me.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:  I’m currently working on My redux project .
 
 - :seedling: I’m currently learning Next.js and Mongoosh
 
