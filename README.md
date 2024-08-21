@@ -23,12 +23,12 @@
 
 ### :woman_technologist: About Me :
 
-I am a front-end web developer with a passion for crafting immersive and responsive user experiences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangldesh.
+I am a front-end web developer with a passion for crafting immersive and responsive user experiences <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangldesh.I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me contact me.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I’m currently learning Next.js and Mongoosh
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Ask me about Javascript, Typescript, React.js, Next.js, MongoDB.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-irfanur-islam98/)
 
@@ -58,24 +58,13 @@ I am a front-end web developer with a passion for crafting immersive and respons
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanurislam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <h2>Hi! 👋 I am Irfanur Islam</h2>
-  <p>I'm a front-end web developer with a passion for crafting immersive and responsive user experiences. My goal is to join a dynamic team, learn, grow, and contribute to building user-centric web applications.I stay up-to-date with the latest web technologies through continuous learning and practice.</p>
 
-  <p>I'm a Frontend Focused Web Developer building and managing the Front-end of Websites and Web Applications that leads to the success of the overall product.</p>
-<p>I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me contact me.</p>
-</div>
 
-### Skills
 
-## ⚡ Technologies
-#### Expert
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-@@ -54,3 +55,6 @@
-<a href="https://web.facebook.com/profile.php?viewas=100000686899395&id=100071110307696" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
+#### where me Find Me
+<a href="https://www.facebook.com/mdirfanulislamshihab/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://www.linkedin.com/in/md-irfanur-islam98/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/rfanurislam" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 
-##### Phone:01861702598
+
 ##### Email: mdirfanurislam5@gmail.com
